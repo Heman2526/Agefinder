@@ -96,7 +96,3 @@ $$\mathcal{L}_{total} = \mathcal{L}_{KL}(p \parallel \hat{p}) + \lambda_1 \mathc
 * **L1 Expectation:** Directly penalizes distance between the expected prediction $\hat{y} = \sum i \cdot \hat{p}_i$ and true age $y$.
 * **Variance Regularization:** Forces the probability distribution to form a sharp, confident peak.
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
